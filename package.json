@@ -1,0 +1,13 @@
+{
+    "name": "type-script",
+    "liscence": "NOLICENSE",
+    "devDependencies": {
+        "typescript": "^4.3.2"
+    },
+    "scripts": {
+        "dev": "tsc --watch --preserveWatchOutput"
+    },
+    "dependencies": {
+        "tsc": "^2.0.4"
+    }
+}
